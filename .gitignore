@@ -17,7 +17,11 @@ local.properties
 .classpath
 .settings/
 .loadpath
+.gradle/
 
+.DS_Store
+
+build/
 # External tool builders
 .externalToolBuilders/
 
