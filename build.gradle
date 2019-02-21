@@ -77,8 +77,6 @@ uploadArchives {
                 username "admin"
                 password "admin123"
             }
-          
-            // change to point to your repo, e.g. http://my.org/repo
             url "http://172.31.43.125:8081/nexus/content/repositories/snapshots"
       }
     }
